@@ -1,0 +1,63 @@
+body{
+  position:absolute;
+  padding: 25px;
+  background-size:cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-image: url(images/pc1.jpg);
+ 
+ }
+ .container {
+   background-color: #f1e5ce;
+   font-family: Arial, sans-serif;
+   max-width: 400px;
+   border-radius: 50px;
+   margin-top: 60px;
+   margin-left: 890px;
+   padding-top: 100px;
+   padding-left: 100px;
+   padding-right: 100px;
+   padding-bottom: 100px;
+   }
+   
+   .details { 
+    margin-bottom: 10px;
+   }
+   
+   label {
+     display: block;
+     margin-bottom: 5px;
+   }
+   
+   input {
+     border: 1px solid #fdce91;
+     border-radius: 5px;
+     width: 100%;
+     padding: 10px;
+   }
+   
+   .error-message {
+     color: rgb(235, 11, 11);
+     font-size: 14px;
+     margin-top: 10px;
+   }
+   
+   button {
+     padding: 10px 20px;
+     margin-top: 10px;
+     background-color: #9b5d0d;
+     color:black;
+     border: none;
+     border-radius: 5px;
+     cursor: pointer;
+   }
+
+   button:hover{
+   background-color: #c2ae89;
+  }
+
+   h2 {
+    color: black;
+    font-size: 20px;
+    ;margin-top: 1px
+  }
